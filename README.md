@@ -2,7 +2,7 @@
 
 A very lightweight **VALORANT tracker** designed to use around **40 MB of RAM**, making it suitable for low-end computers.
 
-![Lite Tracker](image.png)
+![Lite Tracker](Screenshot_4.png)
 
 ## Features
 
@@ -28,7 +28,6 @@ Download the latest version from the **Download** folder/release.
 
 ![Screenshot 1](Screenshot_3.png)
 
-![Screenshot 2](Screenshot_4.png)
 
 ## Disclaimer
 
